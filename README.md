@@ -12,9 +12,15 @@ This assignment utilized javascript to create an application that generates a ra
 * The collection of variables in for loop generated password randomly.
 
 #### Link
+![Link to Deployed Website] (https://gisosa531.github.io/Password-Generator/Develop/index.html)
 
+![link to GitHub Repository] (https://github.com/gisosa531/Password-Generator)
+
+https://gisosa531.github.io/Password-Generator/
 
 #### References
 *  [https://www.w3schools.com/js/](https://www.w3schools.com/js/)
 
 ### Images
+
+<img src="./assets/images/PasswordGeneratorFunctional.gif" alt="Functional Display of Password Generator" >
