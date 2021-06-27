@@ -16,11 +16,12 @@ This assignment utilized javascript to create an application that generates a ra
 
 ![link to GitHub Repository] (https://github.com/gisosa531/Password-Generator)
 
-https://gisosa531.github.io/Password-Generator/
-
 #### References
 *  [https://www.w3schools.com/js/](https://www.w3schools.com/js/)
+*  [https://www.freecodecamp.org/news/how-to-use-javascript-collections-map-and-set/](https://www.freecodecamp.org/news/how-to-use-javascript-collections-map-and-set/)
+* [https://javascript.info/](https://javascript.info/)
 
 ### Images
+<img src=./Develop/assets/images/PasswordGeneratorDisplay.png alt="Normal Display of Password Generator Application">
 
-<img src="./assets/images/PasswordGeneratorFunctional.gif" alt="Functional Display of Password Generator" >
+<img src="./Develop/assets/images/PasswordGeneratorFunctional.gif" alt="Functional Display of Password Generator" >
